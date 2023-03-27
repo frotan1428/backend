@@ -1,0 +1,9 @@
+
+
+ Connection --> to set a connection
+ Statement --> execute queries (string queries)
+ PreparedStatement --> execute parameterized queries
+
+ execute() --> return boolean
+ executeQuery() --> return ResulSet (SELECT ...)
+ executeUpdate () -->return int (number affected records) (DELETE, UPDATE, INSERT INTO...)
